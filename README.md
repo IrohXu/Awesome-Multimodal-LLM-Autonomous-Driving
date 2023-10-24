@@ -18,9 +18,7 @@ The table is inspired by Comparison and stats in DriveLM
 ## Awesome Papers
 
 
-
-
-## Papers Appear in WACV 2024 LLVM-AD    
+## Papers Accept in WACV 2024 LLVM-AD    
 
 ### Long Paper     
 
