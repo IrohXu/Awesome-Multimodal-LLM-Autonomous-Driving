@@ -20,7 +20,7 @@ The table is inspired by Comparison and stats in DriveLM
 ### MLLM for Perception
 
 | Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
-|:---------:|:-------------:|:-------------:|:------:|:--------------------------------------------:|:----------:|
+|:-----------------:|:-------:|:-------------:|:------:|:-------------:|:--------:|:------------------------------------------------------------------------:|
 | Driving with LLMs |  2023  | LLaMA-7b  |  7B   |  numeric+language   | FT | Propose a object-level multimodal LLM that merges vectroized numeric modalities with a pre-trained LLM. |
 
 ### MLLM for Planning & Control
