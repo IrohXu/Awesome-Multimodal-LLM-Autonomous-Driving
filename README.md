@@ -24,11 +24,14 @@ The table is inspired by Comparison and stats in DriveLM
 
 | Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
 |:--------------------:|:-------:|:---------------:|:------:|:-------------:|:--------:|:-------------------------------------------------------------------:|
-| Driving with LLMs |  2023  | LLaMA-7b  |  7B   |  numeric+language   | FT | Propose a object-level multimodal LLM that merges vectroized numeric modalities with a pre-trained LLM. |
+| Driving with LLMs |  2023  | LLaMA-7b  |  7B   |  numeric+language   | FT | Propose a object-level multimodal LLM that merges vectroized numeric modalities with a pre-trained LLM. |  
+| Talk2BEV |  2023  | Flan5XXL/Vicuna-13b  |  13B   |  map+language   | ICL | Generate aligned image-laugage features using an MLLM to extract object metadata. |
 
 ### MLLM for Planning & Control
 
-
+| Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
+|:--------------------:|:-------:|:---------------:|:------:|:-------------:|:--------:|:-------------------------------------------------------------------:|
+| LMaZP |  2023  | GPT-3/Codex  |   175B/12B   |  Language  | In-context Learning | Use LLMs to break down complex tasks into actionable steps. |
 
 
 ## Papers Accept in WACV 2024 LLVM-AD    
