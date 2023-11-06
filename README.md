@@ -1,5 +1,8 @@
 # Multimodal Large Language Models for Autonomous Driving (WACV 2024 LLVM-AD)
 
+## Abstract
+With the advent of Large Language Models (LLMs) and Foundation Vision Models (FVMs), multi-modal AI systems have the potential to be equally perceiving the real world, making decisions, controlling tools as humans. Recently, LLMs have shown widespread attention in autonomous driving, map systems. Despite its immense potential, there is still a lack of a comprehensive understanding of key challenges, opportunities, and future endeavors to apply in LLM driving systems. In this paper, we present a systematic investigation in this field. We first introduce the background of LLMs, the multi-modal models development using LLMs, and the history of autonomous driving. Then, we recapitulate existing multi-modal LLM tools for driving, transportation, map systems together with existing dataset and benchmarks. To further promote the development of this field, we also discuss several important problems regarding to using multi-modal LLMs into self-driving systems that need to be solved by both academia and industry.       
+
 ## Datasets
 
 The table is inspired by Comparison and stats in DriveLM
