@@ -31,7 +31,12 @@ The table is inspired by Comparison and stats in DriveLM
 
 | Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
 |:--------------------:|:-------:|:---------------:|:------:|:-------------:|:--------:|:-------------------------------------------------------------------:|
-| LMaZP |  2023  | GPT-3/Codex  |   175B/12B   |  Language  | In-context Learning | Use LLMs to break down complex tasks into actionable steps. |
+| LMaZP |  2022  | GPT-3/Codex  |   175B/12B   |  Language  | In-context Learning | Use LLMs to break down complex tasks into actionable steps. |
+| Dilu |  2023  | GPT-3.5 & GPT-4  |   20B & 1.7T   |  Language  | In-context Learning | Use LLMs to enhance autonomous driving systems with knowledge-driven capabilities and better generalization. |
+| DaYS |  2023  |  GPT-4  |  1.7T  |  Language  | Integrate the advanced language and reasoning capabilities of LLMs into autonomous vehicles. |
+
+
+
 
 
 ## Papers Accept in WACV 2024 LLVM-AD    
