@@ -27,3 +27,18 @@ TBD
 ### Tech Report (Short Paper)       
 
 TBD
+
+## Citation    
+
+If the survey and our workshop inspire you, please cite our work:    
+
+```
+@article{wacv2024multimodalllm,
+  title={Multi-Modal Large Language Models for Autonomous Driving},
+  author={WACV 2024 LLVM-AD Organization Committee},
+  journal={WACV 2024 Workshop},
+  year={2024}
+}
+```
+
+
