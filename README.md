@@ -1,4 +1,4 @@
-# Multimodal Large Language Models for Autonomous Driving (WACV 2024 LLVM-AD)
+# A Survey on Multimodal Large Language Models for Autonomous Driving (WACV 2024 LLVM-AD)
 
 ## Abstract
 With the emergence of Large Language Models (LLMs) and Vision Foundation Models (VFMs), multimodal AI systems benefiting from large models have the potential to equally perceive the real world, make decisions, and control tools as humans. In recent months, LLMs have shown widespread attention in autonomous driving and map systems. Despite its immense potential, there is still a lack of a comprehensive understanding of key challenges, opportunities, and future endeavors to apply in LLM driving systems. In this repo, we present a systematic investigation in this field. We first introduce the background of Multimodal Large Language Models (MLLMs), the multimodal models development using LLMs, and the history of autonomous driving. Then, we overview existing MLLM tools for driving, transportation, and map systems together with existing datasets and benchmarks. Moreover, we summarized the works in The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD), which is the first workshop of its kind regarding LLMs in autonomous driving. To further promote the development of this field, we also discuss several important problems regarding using MLLMs in autonomous driving systems that need to be solved by both academia and industry.      
@@ -41,12 +41,6 @@ The table is inspired by Comparison and stats in DriveLM
 
 ## Papers Accept in WACV 2024 LLVM-AD    
 
-### Long Paper     
-
-TBD
-
-### Tech Report (Short Paper)       
-
 TBD
 
 ## Citation    
@@ -54,11 +48,11 @@ TBD
 If the survey and our workshop inspire you, please cite our work:    
 
 ```
-@article{wacv2024multimodalllm,
-  title={Multi-Modal Large Language Models for Autonomous Driving},
-  author={WACV 2024 LLVM-AD Organization Committee},
-  journal={WACV 2024 Workshop},
-  year={2024}
+@article{wacv_llvmad_survey,
+    title     = {A Survey on Multimodal Large Language Models for Autonomous Driving},
+    author    = {Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian, and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and Gao, Tianren and Li, Erlong and Tang, Kun and Cao, Zhipeng and Zhou, Tong and Liu, Ao and Yan, Xinrui and Mei, Shuqi and Cao, Jianguo and Wang, Ziran and Zheng, Chao},
+    booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshop},
+    year  = {2024}
 }
 ```
 
