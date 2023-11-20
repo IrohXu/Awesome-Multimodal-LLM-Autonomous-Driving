@@ -16,26 +16,26 @@ The table is inspired by Comparison and stats in DriveLM
 | [DRAMA 2022](https://usa.honda-ri.com/drama)   |  - | Description |  QA + Captions | 18k frames, 100k text strings | **:heavy_check_mark:**|
 | [nuScenes-QA 2023](https://arxiv.org/abs/2305.14836)   |   [nuScenes](https://www.nuscenes.org/)  | QA |  Perception Result     | 30k frames, 460k generated QA pairs| **:heavy_check_mark:** |
 | [DriveLM 2023](https://github.com/OpenDriveLab/DriveLM) | [nuScenes](https://www.nuscenes.org/) | QA + Scene Description | Perception, Prediction and Planning with Logic | 30k frames, 360k annotated QA pairs |**:heavy_check_mark:** |
-| [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | **:boom: QA + Scene Description** | **:boom:Perception, Prediction and HD Map Annotation** | 100k+ frames, 900k+ annotated Scene Description + QA pairs | **:heavy_check_mark:** |
+| [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | **:boom: QA + Scene Description** | **:boom:Perception, Prediction and HD Map Annotation** | 2M frames, 16M annotated HD map Description + 13K released QA pairs | **:heavy_check_mark:** |
 
 ## Awesome Papers
 
-### MLLM for Perception
+### MLLM for Perception & Planning & Control for Autonomous Driving
 
-| Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
-|:--------------------:|:-------:|:---------------:|:------:|:-------------:|:--------:|:-------------------------------------------------------------------:|
-| Driving with LLMs |  2023  | LLaMA-7b  |  7B   |  numeric+language   | FT | Propose a object-level multimodal LLM that merges vectroized numeric modalities with a pre-trained LLM. |  
-| Talk2BEV |  2023  | Flan5XXL/Vicuna-13b  |  13B   |  map+language   | ICL | Generate aligned image-laugage features using an MLLM to extract object metadata. |
-
-### MLLM for Planning & Control
-
-| Model  |    Year     |    LLM    |   Param  |    Modalities      |  Learning   |   Workflow  |
-|:--------------------:|:-------:|:---------------:|:------:|:-------------:|:--------:|:-------------------------------------------------------------------:|
-| LMaZP |  2022  | GPT-3/Codex  |   175B/12B   |  Language  | In-context Learning | Use LLMs to break down complex tasks into actionable steps. |
-| Dilu |  2023  | GPT-3.5 & GPT-4  |   20B & 1.7T   |  Language  | In-context Learning | Use LLMs to enhance autonomous driving systems with knowledge-driven capabilities and better generalization. |
-| DaYS |  2023  |  GPT-4  |  1.7T  |  Language  | In-context Learning | Integrate the advanced language and reasoning capabilities of LLMs into autonomous vehicles. |
-| RRR |  2023  |  GPT-4  |  1.7T  |  Language  | In-context Learning | Leverage LLMs in the decision-making process and verify their potential in enhancing the personalized driving experience. |
-| DwLLMs |  2023  |  GPT-3.5  |  20B  |  Language  | Pre-trained | Enable direct interpretation and comprehensive reasoning with LLMs for explainability in autonomous driving. |
+| Model                           | Year | Backbone               | Task              | Modality          | Learning | Input           | Output               |
+|---------------------------------|------|------------------------|-------------------|-------------------|----------|-----------------|----------------------|
+| Driving with LLMs~[1]           | 2023 | LLaMA                  | Perception Control| Vector Language   | FT       | Vector Query    | Response \ Actions   |
+| Talk2BEV~[2]                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning| Vision Language   | ICL      | Image Query     | Response             |
+| GAIA-1~[3]                      | 2023 | -                      | Planning          | Vision Language   | PT       | Video Prompt    | Video                |
+| LMaZP~[4]                       | 2022 | GPT-3 Codex            | Planning          | Language          | ICL      | Text            | Plan                 |
+| Dilu~[5]                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | ICL      | Text            | Action               |
+| DaYS~[6]                        | 2023 | GPT-4                  | Planning          | Language          | ICL      | Text            | Code                 |
+| RRR~[7]                         | 2023 | GPT-4                  | Planning Control  | Language          | ICL      | Text            | Action               |
+| DlaH~[8]                        | 2023 | GPT-3.5                | Planning Control  | Language          | ICL      | Text            | Action               |
+| GPT-Driver~[9]                  | 2023 | GPT-3.5                | Planning          | Vision Language   | ICL      | Text            | Trajectory           |
+| SurrealDriver~[10]              | 2023 | GPT-4                  | Planning Control  | Language          | ICL      | Text            | Text \ Actions       |
+| LanguageMPC~[11]                | 2023 | GPT-3.5                | Planning          | Language          | ICL      | Text            | Action               |
+| DriveGPT4~[12]                  | 2023 | Llama 2                | Planning Control  | Vision Language   | ICL      | Image Text Action| Text \ Actions       |
 
 
 
