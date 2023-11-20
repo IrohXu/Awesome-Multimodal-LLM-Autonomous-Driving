@@ -10,7 +10,7 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 
 | Model                           | Year | Backbone               | Task              | Modality          | Learning | Input           | Output               |
 |---------------------------------|------|------------------------|-------------------|-------------------|----------|-----------------|----------------------|
-| Driving with LLMs~[1]           | 2023 | LLaMA                  | Perception Control| Vector Language   | FT       | Vector Query    | Response \ Actions   |
+| [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control| Vector Language   | FT       | Vector Query    | Response \ Actions   |
 | Talk2BEV~[2]                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning| Vision Language   | ICL      | Image Query     | Response             |
 | GAIA-1~[3]                      | 2023 | -                      | Planning          | Vision Language   | PT       | Video Prompt    | Video                |
 | LMaZP~[4]                       | 2022 | GPT-3 Codex            | Planning          | Language          | ICL      | Text            | Plan                 |
