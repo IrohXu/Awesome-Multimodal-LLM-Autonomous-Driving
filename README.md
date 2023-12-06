@@ -36,23 +36,41 @@ The table is inspired by Comparison and stats in DriveLM
 | [DRAMA 2022](https://usa.honda-ri.com/drama)   |  - | Description |  QA + Captions | 18k frames, 100k text strings | **:heavy_check_mark:**|
 | [nuScenes-QA 2023](https://arxiv.org/abs/2305.14836)   |   [nuScenes](https://www.nuscenes.org/)  | QA |  Perception Result     | 30k frames, 460k generated QA pairs| **:heavy_check_mark:** |
 | [DriveLM 2023](https://github.com/OpenDriveLab/DriveLM) | [nuScenes](https://www.nuscenes.org/) | QA + Scene Description | Perception, Prediction and Planning with Logic | 30k frames, 360k annotated QA pairs |**:heavy_check_mark:** |
-| [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | ** QA + Scene Description** | ** Perception, Prediction and HD Map Annotation** | 2M frames, 16M annotated HD map Description + 13K released QA pairs | **:heavy_check_mark:** |
+| [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | QA + Scene Description | Perception, Prediction and HD Map Annotation | 2M frames, 16M annotated HD map Description + 13K released QA pairs | **:heavy_check_mark:** |
 
 
 ## Papers Accept in WACV 2024 LLVM-AD    
 
-TBD
+Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles      
+
+Drive Like a Human: Rethinking Autonomous Driving with Large Language Models      
+
+A Game of Bundle Adjustment - Learning Efficient Convergence      
+
+VLAAD: Vision and Language Assistant for Autonomous Driving      
+
+A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs     
+
+Human-Centric Autonomous Systems With LLMs for User Command Reasoning      
+
+NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations       
+
+Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
+
+LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
 
 ## Citation    
 
 If the survey and our workshop inspire you, please cite our work:    
 
 ```
-@article{wacv_llvmad_survey,
-    title     = {A Survey on Multimodal Large Language Models for Autonomous Driving},
-    author    = {Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian, and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and Gao, Tianren and Li, Erlong and Tang, Kun and Cao, Zhipeng and Zhou, Tong and Liu, Ao and Yan, Xinrui and Mei, Shuqi and Cao, Jianguo and Wang, Ziran and Zheng, Chao},
-    booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshop},
-    year  = {2024}
+@misc{cui2023survey,
+      title={A Survey on Multimodal Large Language Models for Autonomous Driving}, 
+      author={Can Cui and Yunsheng Ma and Xu Cao and Wenqian Ye and Yang Zhou and Kaizhao Liang and Jintai Chen and Juanwu Lu and Zichong Yang and Kuei-Da Liao and Tianren Gao and Erlong Li and Kun Tang and Zhipeng Cao and Tong Zhou and Ao Liu and Xinrui Yan and Shuqi Mei and Jianguo Cao and Ziran Wang and Chao Zheng},
+      year={2023},
+      eprint={2311.12320},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 
