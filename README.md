@@ -10,18 +10,21 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 
 | Model                           | Year | Backbone               | Task              | Modality          | Learning | Input           | Output               |
 |---------------------------------|------|------------------------|-------------------|-------------------|----------|-----------------|----------------------|
-| [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control| Vector Language   | FT       | Vector Query    | Response \ Actions   |
-| [Talk2BEV](https://arxiv.org/abs/2310.02251)                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning| Vision Language   | ICL      | Image Query     | Response             |
-| [GAIA-1](https://arxiv.org/abs/2309.17080)                     | 2023 | -                      | Planning          | Vision Language   | PT       | Video Prompt    | Video                |
-| [LMaZP](https://arxiv.org/abs/2201.07207)                       | 2022 | GPT-3 Codex            | Planning          | Language          | ICL      | Text            | Plan                 |
-| [Dilu](https://arxiv.org/abs/2309.16292)                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | ICL      | Text            | Action               |
-| [DaYS](https://arxiv.org/abs/2309.10228)                        | 2023 | GPT-4                  | Planning          | Language          | ICL      | Text            | Code                 |
-| [RRR](https://arxiv.org/abs/2310.08034)                         | 2023 | GPT-4                  | Planning Control  | Language          | ICL      | Text            | Action               |
-| [DlaH](https://arxiv.org/abs/2307.07162)                        | 2023 | GPT-3.5                | Planning Control  | Language          | ICL      | Text            | Action               |
-| [GPT-Driver](https://arxiv.org/abs/2310.01415)                  | 2023 | GPT-3.5                | Planning          | Vision Language   | ICL      | Text            | Trajectory           |
-| [SurrealDriver](https://arxiv.org/abs/2309.13193)             | 2023 | GPT-4                  | Planning Control  | Language          | ICL      | Text            | Text \ Actions       |
-| [LanguageMPC](https://arxiv.org/abs/2310.03026)                | 2023 | GPT-3.5                | Planning          | Language          | ICL      | Text            | Action               |
-| [DriveGPT4](https://arxiv.org/abs/2310.01412)                  | 2023 | Llama 2                | Planning Control  | Vision Language   | ICL      | Image Text Action| Text \ Actions       |
+| [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control| Vector Language   | fine-tuning    | Vector Query    | Response \ Actions   |
+| [Talk2BEV](https://arxiv.org/abs/2310.02251)                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning| Vision Language   | in-context learning      | Image Query     | Response             |
+| [GAIA-1](https://arxiv.org/abs/2309.17080)                     | 2023 | -                      | Planning          | Vision Language   | pretrained       | Video Prompt    | Video                |
+| [LMaZP](https://arxiv.org/abs/2201.07207)                       | 2022 | GPT-3 Codex            | Planning          | Language          | in-context learning      | Text            | Plan                 |
+| [Dilu](https://arxiv.org/abs/2309.16292)                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | in-context learning      | Text            | Action               |
+| [DaYS](https://arxiv.org/abs/2309.10228)                        | 2023 | GPT-4                  | Planning          | Language          | in-context learning      | Text            | Code                 |
+| [RRR](https://arxiv.org/abs/2310.08034)                         | 2023 | GPT-4                  | Planning Control  | Language          | in-context learning      | Text            | Action               |
+| [DlaH](https://arxiv.org/abs/2307.07162)                        | 2023 | GPT-3.5                | Planning Control  | Language          | in-context learning      | Text            | Action               |
+| [GPT-Driver](https://arxiv.org/abs/2310.01415)                  | 2023 | GPT-3.5                | Planning          | Vision Language   | in-context learning      | Text            | Trajectory           |
+| [SurrealDriver](https://arxiv.org/abs/2309.13193)             | 2023 | GPT-4                  | Planning Control  | Language          | in-context learning      | Text            | Text \ Actions       |
+| [LanguageMPC](https://arxiv.org/abs/2310.03026)                | 2023 | GPT-3.5                | Planning          | Language          | in-context learning      | Text            | Action               |
+| [DriveGPT4](https://arxiv.org/abs/2310.01412)                  | 2023 | Llama 2                | Planning Control  | Vision Language   | in-context learning      | Image Text Action| Text \ Actions       |
+| [Domain Knowledge Distillation from LLMs](https://arxiv.org/abs/2310.01412)    | 2023 | GPT-3.5    | Text Generation  | Language   | in-context learning      | Text |  Concept   |
+
+
 
 ### Datasets   
 The table is inspired by Comparison and stats in DriveLM    
@@ -51,7 +54,7 @@ The table is inspired by Comparison and stats in DriveLM
 
 [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)       
 
-[A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as tech report for ICCV 2023 Paper          
+[A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for ICCV 2023 Paper          
 
 VLAAD: Vision and Language Assistant for Autonomous Driving      
 
