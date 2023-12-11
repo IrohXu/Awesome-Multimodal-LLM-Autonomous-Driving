@@ -54,6 +54,8 @@ The table is inspired by Comparison and stats in DriveLM
 |---------------------------------|------|------------------------|
 | [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414)    |  2023  |    Vision-Language Models    |        
 | [LLM4Drive: A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.01043)    |  2023  |    Language Models for Autonomous Driving    |    
+| [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316)    |  2023  |    Summary on how to use large language models, world models, and neural rendering to contribute to a more holistic, adaptive, and intelligent autonomous driving system.   | 
+| [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)    |  2023  |   Large Scale Foundation Models (LLMs, VLMs, VFMs, World Models) for Autonomous Driving    | 
 
 
 ### Papers Accepted by WACV 2024 LLVM-AD      
