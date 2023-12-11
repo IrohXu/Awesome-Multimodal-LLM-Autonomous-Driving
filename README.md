@@ -1,6 +1,6 @@
 # A Survey on Multimodal Large Language Models for Autonomous Driving      
 
-### :boom: News :boom: The schedule of [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is updated. We are delighted to invite Dr. Zhen Li from CUHK, Dr. Oleg Sinavski from Wayve, and Dr. Yu Huang from roboraction.ai to present their ideas on LLM for next-generation autonomous driving.
+### :boom: News :boom: The schedule of [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is updated. We are delighted to invite Dr. Zhen Li from CUHK, Dr. Oleg Sinavski from Wayve, and Dr. Yu Huang from roboraction.ai as workshop keynote speakers to present their ideas on LLM for next-generation autonomous driving.
 
 ### :boom: News :boom: We released [LaMPilot](https://arxiv.org/abs/2312.04372), the first open benchmark defined LLM-based autonomous driving task as a code-generation process that leverages established behavioral primitives.     
 
