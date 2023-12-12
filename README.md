@@ -72,7 +72,7 @@ A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic 
 
 [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/abs/2311.08206)       
 
-NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations       
+[NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://arxiv.org/abs/2312.06352)       
 
 Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
 
