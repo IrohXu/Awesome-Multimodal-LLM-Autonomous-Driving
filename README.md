@@ -60,6 +60,8 @@ The table is inspired by Comparison and stats in DriveLM
 
 ### Papers Accepted by WACV 2024 LLVM-AD      
 
+[A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320)
+
 [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228)     
 
 [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)       
