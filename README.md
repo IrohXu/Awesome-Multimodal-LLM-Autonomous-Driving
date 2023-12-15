@@ -81,6 +81,20 @@ Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic 
 
 LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
 
+## Future Directions
+
+#### Social Behavior for Autonomous Driving.    
+
+TBD
+
+#### Personalized Autonomous Driving.   
+
+TBD
+
+#### Hardware Support for LLMs in Autonomous Driving.    
+
+TBD
+
 ## Citation    
 
 If the survey and our workshop inspire you, please cite our work:    
