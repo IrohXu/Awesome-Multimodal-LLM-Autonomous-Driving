@@ -31,7 +31,7 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [DriveGPT4](https://arxiv.org/abs/2310.01412)                  | 2023 | Llama 2                | Planning Control  | Vision Language   | in-context learning      | Image Text Action | Text / Actions       |
 | [Domain Knowledge Distillation from LLMs](https://arxiv.org/abs/2310.01412)    | 2023 | GPT-3.5    | Text Generation  | Language   | in-context learning      | Text |  Concept   |
 | [LaMPilot](https://arxiv.org/abs/2312.04372)  |  2023 | GPT-4 / LLaMA-2 / PaLM2  |  Planning (Code Generation)  |  Language  |  in-context learning  | Text | Code as action  |
-| [LaMPilot](https://arxiv.org/abs/2312.04372)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  fine-tuning  | RGB Image LiDAR Text  | Control Action  |
+| [LMDrive](https://arxiv.org/abs/2312.07488)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  fine-tuning  | RGB Image LiDAR Text  | Control Action  |
 
 
 
