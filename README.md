@@ -100,7 +100,7 @@ TBD
 If the survey and our workshop inspire you, please cite our work:    
 
 ```
-@misc{cui2023survey,
+@article{cui2023survey,
       title={A Survey on Multimodal Large Language Models for Autonomous Driving}, 
       author={Can Cui and Yunsheng Ma and Xu Cao and Wenqian Ye and Yang Zhou and Kaizhao Liang and Jintai Chen and Juanwu Lu and Zichong Yang and Kuei-Da Liao and Tianren Gao and Erlong Li and Kun Tang and Zhipeng Cao and Tong Zhou and Ao Liu and Xinrui Yan and Shuqi Mei and Jianguo Cao and Ziran Wang and Chao Zheng},
       year={2023},
