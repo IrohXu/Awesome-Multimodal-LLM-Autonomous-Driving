@@ -1,10 +1,10 @@
 # A Survey on Multimodal Large Language Models for Autonomous Driving      
 
-### :boom: News: The schedule of [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is updated. We are delighted to invite [Dr. Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) from CUHKSZ, [Dr. Oleg Sinavski](https://www.linkedin.com/in/oleg-sinavski/) from Wayve, and [Dr. Yu Huang](https://www.linkedin.com/in/yuhuang/) from roboraction.ai as workshop keynote speakers to present their insights on LLMs for next-generation autonomous driving.
+### :boom: News: The schedule of [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is updated. We are delighted to invite [Dr. Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) from CUHKSZ, [Dr. Oleg Sinavski](https://www.linkedin.com/in/oleg-sinavski/) from Wayve, and [Dr. Yu Huang](https://www.linkedin.com/in/yuhuang/) from roboraction.ai as workshop keynote speakers to present their insights on LLMs for next-generation autonomous driving.       
 
 ### :boom: News: We released [LaMPilot](https://arxiv.org/abs/2312.04372), the first open benchmark defined LLM-based autonomous driving task as a code-generation process that leverages established behavioral primitives.     
 
-[Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/) 
+[Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    
 
 ### Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)     
 
