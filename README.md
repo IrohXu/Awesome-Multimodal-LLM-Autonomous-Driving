@@ -17,8 +17,8 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 
 | Model                           | Year | Backbone               | Task              | Modality          | Learning | Input           | Output               |
 |---------------------------------|------|------------------------|-------------------|-------------------|----------|-----------------|----------------------|
-| [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control| Vector Language   | Finetune    |  Vector Query    | Response / Actions   |
-| [Talk2BEV](https://arxiv.org/abs/2310.02251)                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning| Vision Language   | In-context learning      | Image Query     | Response             |
+| [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control | Vector Language   | Finetune    |  Vector Query    | Response / Actions   |
+| [Talk2BEV](https://arxiv.org/abs/2310.02251)                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning | Vision Language   | In-context learning      | Image Query     | Response             |
 | [GAIA-1](https://arxiv.org/abs/2309.17080)                     | 2023 | -                      | Planning          | Vision Language   | Pretrain       | Video Prompt    | Video                |
 | [LMaZP](https://arxiv.org/abs/2201.07207)                       | 2022 | GPT-3 Codex            | Planning          | Language          | In-context learning      | Text            | Plan                 |
 | [Dilu](https://arxiv.org/abs/2309.16292)                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | In-context learning      | Text            | Action               |
@@ -32,7 +32,8 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [Domain Knowledge Distillation from LLMs](https://arxiv.org/abs/2310.01412)    | 2023 | GPT-3.5    | Text Generation  | Language   | In-context learning      | Text |  Concept   |
 | [LaMPilot](https://arxiv.org/abs/2312.04372)  |  2023 | GPT-4 / LLaMA-2 / PaLM2  |  Planning (Code Generation)  |  Language  |  In-context learning  | Text | Code as action  |
 | [LMDrive](https://arxiv.org/abs/2312.07488)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  Finetune  | RGB Image LiDAR Text  | Control Action  |
-
+| [DriveLLM](https://ieeexplore.ieee.org/abstract/document/10297415)  |  2023 |  GPT-4  |  Planning Control  |  Language  |  In-context learning  | Text  | Action  |
+| [DriveMLM](https://arxiv.org/abs/2312.09245)  |  2023  |  LLaVA+Q-former  |  Perception Planning  |  Vision Language   |   Training  |   RGB Image LiDAR Text   |   Action  |
 
 
 ### Datasets   
@@ -58,7 +59,6 @@ The table is inspired by Comparison and stats in DriveLM
 | [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316)    |  2023  |    Summary on how to use large language models, world models, and neural rendering to contribute to a more holistic, adaptive, and intelligent autonomous driving system.   | 
 | [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)    |  2023  |   Large Scale Foundation Models (LLMs, VLMs, VFMs, World Models) for Autonomous Driving    | 
 
-
 ### Papers Accepted by WACV 2024 LLVM-AD      
 
 [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320)
@@ -69,44 +69,37 @@ The table is inspired by Comparison and stats in DriveLM
 
 [A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for ICCV 2023 Paper          
 
-VLAAD: Vision and Language Assistant for Autonomous Driving      
+[VLAAD: Vision and Language Assistant for Autonomous Driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Park_VLAAD_Vision_and_Language_Assistant_for_Autonomous_Driving_WACVW_2024_paper.html)   
 
-A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs     
+[A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Zhong_A_Safer_Vision-Based_Autonomous_Planning_System_for_Quadrotor_UAVs_With_WACVW_2024_paper.html)     
 
 [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/abs/2311.08206)       
 
 [NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://arxiv.org/abs/2312.06352)       
 
-Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation       
+[Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Zampokas_Latency_Driven_Spatially_Sparse_Optimization_for_Multi-Branch_CNNs_for_Semantic_WACVW_2024_paper.html)       
 
-LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization      
+[LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Shubodh_LIP-Loc_LiDAR_Image_Pretraining_for_Cross-Modal_Localization_WACVW_2024_paper.html)      
 
 ## Future Directions
 
 #### Social Behavior for Autonomous Driving.    
 
-TBD
-
 #### Personalized Autonomous Driving.   
 
-TBD
-
 #### Hardware Support for LLMs in Autonomous Driving.    
-
-TBD
 
 ## Citation    
 
 If the survey and our workshop inspire you, please cite our work:    
 
 ```
-@article{cui2023survey,
-      title={A Survey on Multimodal Large Language Models for Autonomous Driving}, 
-      author={Can Cui and Yunsheng Ma and Xu Cao and Wenqian Ye and Yang Zhou and Kaizhao Liang and Jintai Chen and Juanwu Lu and Zichong Yang and Kuei-Da Liao and Tianren Gao and Erlong Li and Kun Tang and Zhipeng Cao and Tong Zhou and Ao Liu and Xinrui Yan and Shuqi Mei and Jianguo Cao and Ziran Wang and Chao Zheng},
-      year={2023},
-      eprint={2311.12320},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@inproceedings{cui2024survey,
+  title={A survey on multimodal large language models for autonomous driving},
+  author={Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and others},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={958--979},
+  year={2024}
 }
 ```
 
