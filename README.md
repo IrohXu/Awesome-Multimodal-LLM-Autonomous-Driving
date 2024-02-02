@@ -2,7 +2,7 @@
 
 ### :boom: News: The schedule of [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is updated. We are delighted to invite [Dr. Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/) from CUHKSZ, [Dr. Oleg Sinavski](https://www.linkedin.com/in/oleg-sinavski/) from Wayve, and [Dr. Yu Huang](https://www.linkedin.com/in/yuhuang/) from roboraction.ai as workshop keynote speakers to present their insights on LLMs for next-generation autonomous driving.       
    
-[Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    
+[Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    |  [Report by 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-4)
 
 ### Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)     
 
