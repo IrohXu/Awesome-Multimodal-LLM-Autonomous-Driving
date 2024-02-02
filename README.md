@@ -59,21 +59,21 @@ The table is inspired by Comparison and stats in DriveLM
 
 ### Papers Accepted by WACV 2024 LLVM-AD      
 
-[A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.12320)
+[A Survey on Multimodal Large Language Models for Autonomous Driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.html)
 
-[Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228)     
+[Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html)     
 
 [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)       
 
-[A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for ICCV 2023 Paper          
+[A Game of Bundle Adjustment - Learning Efficient Convergence](https://arxiv.org/abs/2308.13270) Accepted as a tech report for their ICCV 2023 Paper          
 
 [VLAAD: Vision and Language Assistant for Autonomous Driving](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Park_VLAAD_Vision_and_Language_Assistant_for_Autonomous_Driving_WACVW_2024_paper.html)   
 
 [A Safer Vision-based Autonomous Planning System for Quadrotor UAVs with Dynamic Obstacle Trajectory Prediction and Its Application with LLMs](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Zhong_A_Safer_Vision-Based_Autonomous_Planning_System_for_Quadrotor_UAVs_With_WACVW_2024_paper.html)     
 
-[Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/abs/2311.08206)       
+[Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Yang_Human-Centric_Autonomous_Systems_With_LLMs_for_User_Command_Reasoning_WACVW_2024_paper.html)       
 
-[NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://arxiv.org/abs/2312.06352)       
+[NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Inoue_NuScenes-MQA_Integrated_Evaluation_of_Captions_and_QA_for_Autonomous_Driving_WACVW_2024_paper.html)       
 
 [Latency Driven Spatially Sparse Optimization for Multi-Branch CNNs for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Zampokas_Latency_Driven_Spatially_Sparse_Optimization_for_Multi-Branch_CNNs_for_Semantic_WACVW_2024_paper.html)       
 
