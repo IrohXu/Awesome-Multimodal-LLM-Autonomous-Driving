@@ -21,7 +21,7 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [LMaZP](https://arxiv.org/abs/2201.07207)                       | 2022 | GPT-3 Codex            | Planning          | Language          | In-context learning      | Text   | Plan   |
 | [Dilu](https://arxiv.org/abs/2309.16292)                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | In-context learning      | Text   | Action    |
 | [Drive as You Speak](https://arxiv.org/abs/2309.10228)   | 2023 | GPT-4          | Planning   | Language  |  In-context learning  | Text   | Code   |
-| [RRR](https://arxiv.org/abs/2310.08034)                         | 2023 | GPT-4                  | Planning Control  | Language          | In-context learning      | Text   | Action     |
+| [Receive, Reason, and React](https://arxiv.org/abs/2310.08034)                         | 2023 | GPT-4                  | Planning Control  | Language          | In-context learning      | Text   | Action     |
 | [Drive Like a Human](https://arxiv.org/abs/2307.07162)      | 2023 | GPT-3.5                | Planning Control  | Language          | In-context learning      | Text      | Action     |
 | [GPT-Driver](https://arxiv.org/abs/2310.01415)                  | 2023 | GPT-3.5                | Planning          | Vision Language   | In-context learning      | Text    | Trajectory   |
 | [SurrealDriver](https://arxiv.org/abs/2309.13193)             | 2023 | GPT-4                  | Planning Control  | Language          | In-context learning      | Text      | Text / Action   |
