@@ -49,14 +49,18 @@ The table is inspired by Comparison and stats in DriveLM
 | [DriveLM 2023](https://github.com/OpenDriveLab/DriveLM) | [nuScenes](https://www.nuscenes.org/) | QA + Scene Description | Perception, Prediction and Planning with Logic | 30k frames, 360k annotated QA pairs |**:heavy_check_mark:** |
 | [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | QA + Scene Description | Perception, Prediction and HD Map Annotation | 2M frames, 16M annotated HD map Description + 13K released QA pairs | **:heavy_check_mark:** |
 
+
 ### Other Survey Papers     
+
 
 | Model                           | Year |       Focus        |
 |---------------------------------|------|------------------------|
 | [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414)    |  2023  |    Vision-Language Models for Transportation Systems    |        
 | [LLM4Drive: A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.01043)    |  2023  |    Language Models for Autonomous Driving    |    
 | [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316)    |  2023  |    Summary on how to use large language models, world models, and neural rendering to contribute to a more holistic, adaptive, and intelligent autonomous driving system.   | 
-| [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)    |  2023  |   Large Scale Foundation Models (LLMs, VLMs, VFMs, World Models) for Autonomous Driving    | 
+| [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)    |  2023  |   Large Scale Foundation Models (LLMs, VLMs, VFMs, World Models) for Autonomous Driving  |
+| [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)  |  2023  |   Closed-Loop Autonomous Driving  |
+| [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)   |  2024  |   Autonomous Driving Datasets   |
 
 ### Papers Accepted by WACV 2024 LLVM-AD      
 
