@@ -29,7 +29,8 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [DriveGPT4](https://arxiv.org/abs/2310.01412)                  | 2023 | Llama 2                | Planning Control  | Vision Language   | In-context learning      | Image Text Action | Text / Action   |
 | [Domain Knowledge Distillation from LLMs](https://arxiv.org/abs/2310.01412)    | 2023 | GPT-3.5    | Text Generation  | Language   | In-context learning      | Text |  Concept   |
 | [LaMPilot](https://arxiv.org/abs/2312.04372)  |  2023 | GPT-4 / LLaMA-2 / PaLM2  |  Planning (Code Generation)  |  Language  |  In-context learning  | Text | Code as action  |
-| [LMDrive](https://arxiv.org/abs/2312.07488)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  Finetune  | RGB Image LiDAR Text  | Control Action  |
+| [LMDrive](https://arxiv.org/abs/2312.07488)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  Finetune  | RGB Image LiDAR Text  |  Control Action  |
+| [On the Road with GPT-4V(ision)](https://arxiv.org/abs/2311.05332)  |  2023 |  GPT-4Vision  |  Perception  |  Vision Language  |  In-context learning  | RGB Image Text  |  Text Description  |
 | [DriveLLM](https://ieeexplore.ieee.org/abstract/document/10297415)  |  2023 |  GPT-4  |  Planning Control  |  Language  |  In-context learning  | Text  | Action  |
 | [DriveMLM](https://arxiv.org/abs/2312.09245)  |  2023  |  LLaVA+Q-Former  |  Perception Planning  |  Vision Language   |   Training  |   RGB Image LiDAR Text   |   Action  |
 | [DriveLM](https://arxiv.org/abs/2312.14150) |  2023  |  GVQA  |   Perception Planning   |   Vision Language   |   Training   |    RGB Image Text   |   Text / Action  |   
