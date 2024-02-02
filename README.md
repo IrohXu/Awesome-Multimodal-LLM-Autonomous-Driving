@@ -29,11 +29,13 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [DriveGPT4](https://arxiv.org/abs/2310.01412)                  | 2023 | Llama 2                | Planning Control  | Vision Language   | In-context learning      | Image Text Action | Text / Action   |
 | [Domain Knowledge Distillation from LLMs](https://arxiv.org/abs/2310.01412)    | 2023 | GPT-3.5    | Text Generation  | Language   | In-context learning      | Text |  Concept   |
 | [LaMPilot](https://arxiv.org/abs/2312.04372)  |  2023 | GPT-4 / LLaMA-2 / PaLM2  |  Planning (Code Generation)  |  Language  |  In-context learning  | Text | Code as action  |
+| [Language Agent for AD](https://arxiv.org/abs/2311.10813)  |  2023  |  GPT-3.5  |  Planning   |  Language  |  In-context learning  |  Text  |  Action  | 
 | [LMDrive](https://arxiv.org/abs/2312.07488)  |  2023 | CARLA + LLaVA  |  Planning Control  |  Vision Language  |  Finetune  | RGB Image LiDAR Text  |  Control Action  |
 | [On the Road with GPT-4V(ision)](https://arxiv.org/abs/2311.05332)  |  2023 |  GPT-4Vision  |  Perception  |  Vision Language  |  In-context learning  | RGB Image Text  |  Text Description  |
 | [DriveLLM](https://ieeexplore.ieee.org/abstract/document/10297415)  |  2023 |  GPT-4  |  Planning Control  |  Language  |  In-context learning  | Text  | Action  |
 | [DriveMLM](https://arxiv.org/abs/2312.09245)  |  2023  |  LLaVA+Q-Former  |  Perception Planning  |  Vision Language   |   Training  |   RGB Image LiDAR Text   |   Action  |
 | [DriveLM](https://arxiv.org/abs/2312.14150) |  2023  |  GVQA  |   Perception Planning   |   Vision Language   |   Training   |    RGB Image Text   |   Text / Action  |   
+| [LangProp](https://arxiv.org/abs/2401.10314)  | 2024  |  IL,DAgger,RL + ChatGPT  |  Planning (Code/Action Generation)   |    CARLA simulator Language   |   Training   |   CARLA simulator Text   |  Code as action  |
 
 
 ### Datasets   
@@ -49,7 +51,7 @@ The table is inspired by Comparison and stats in DriveLM
 | [nuScenes-QA 2023](https://arxiv.org/abs/2305.14836)   |   [nuScenes](https://www.nuscenes.org/)  | QA |  Perception Result     | 30k frames, 460k generated QA pairs|  [nuScenes-QA](https://github.com/qiantianwen/NuScenes-QA) |
 | [DriveLM 2023](https://github.com/OpenDriveLab/DriveLM) | [nuScenes](https://www.nuscenes.org/) | QA + Scene Description | Perception, Prediction and Planning with Logic | 30k frames, 360k annotated QA pairs | [DriveLM](https://github.com/OpenDriveLab/DriveLM) |
 | [MAPLM 2023](https://github.com/LLVM-AD/MAPLM) | [THMA](https://dl.acm.org/doi/10.1609/aaai.v37i13.26848) | QA + Scene Description | Perception, Prediction and HD Map Annotation | 2M frames, 16M annotated HD map Description + 13K released QA pairs | [MAPLM](https://github.com/LLVM-AD/MAPLM) |
-| [LingoQA 2023](https://arxiv.org/abs/2312.14115)  |  Wayve  |  QA  |  Perception, and Planning  |  28k frames, 419.9k QA + Captioning  |  [LingoQA](https://github.com/wayveai/LingoQA)  |
+| [LingoQA 2023](https://arxiv.org/abs/2312.14115)  |  Collected by Wayve  |  QA  |  Perception, and Planning  |  28k frames, 419.9k QA + Captioning  |  [LingoQA](https://github.com/wayveai/LingoQA)  |
 
 
 ### Other Survey Papers     
