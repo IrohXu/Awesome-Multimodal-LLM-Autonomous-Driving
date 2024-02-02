@@ -18,7 +18,6 @@ With the emergence of Large Language Models (LLMs) and Vision Foundation Models 
 | [Driving with LLMs](https://arxiv.org/abs/2310.01957)           | 2023 | LLaMA                  | Perception Control | Vector Language   | Finetune    |  Vector Query    | Response / Actions   |
 | [Talk2BEV](https://arxiv.org/abs/2310.02251)                    | 2023 | Flan5XXL Vicuna-13b    | Perception Planning | Vision Language   | In-context learning      | Image Query     | Response    |
 | [GAIA-1](https://arxiv.org/abs/2309.17080)                     | 2023 | -                      | Planning          | Vision Language   | Pretrain       | Video Prompt    | Video    |
-| [LMaZP](https://arxiv.org/abs/2201.07207)                       | 2022 | GPT-3 Codex            | Planning          | Language          | In-context learning      | Text   | Plan   |
 | [Dilu](https://arxiv.org/abs/2309.16292)                        | 2023 | GPT-3.5 GPT-4          | Planning Control  | Language          | In-context learning      | Text   | Action    |
 | [Drive as You Speak](https://arxiv.org/abs/2309.10228)   | 2023 | GPT-4          | Planning   | Language  |  In-context learning  | Text   | Code   |
 | [Receive, Reason, and React](https://arxiv.org/abs/2310.08034)                         | 2023 | GPT-4                  | Planning Control  | Language          | In-context learning      | Text   | Action     |
