@@ -1,9 +1,7 @@
 # A Survey on Multimodal Large Language Models for Autonomous Driving      
 
 ### :boom: News: [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is successfully organized at WACV 2024.    
-
-![On-site](./WACV2024/wacv1.jpg)       
-![On-site](./WACV2024/wacv2.jpg)       
+   
 ![On-site](./WACV2024/wacv3.jpg)       
    
 [Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    |  [Report by 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-4)
