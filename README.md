@@ -4,7 +4,7 @@
    
 ![On-site](./WACV2024/wacv3.jpg)       
    
-[WACV 2024 Proceedings](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.pdf)  |  [Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    |  [Report by 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-4)
+[WACV 2024 Proceedings](https://openaccess.thecvf.com/WACV2024_workshops/LLVM-AD)  |  [Arxiv](https://arxiv.org/abs/2311.12320)   |   [Workshop](https://llvm-ad.github.io/)    |  [Report by 机器之心](https://www.jiqizhixin.com/articles/2023-12-18-4)
 
 ### Summary of the 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)     
 
