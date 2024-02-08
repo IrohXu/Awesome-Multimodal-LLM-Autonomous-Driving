@@ -77,6 +77,7 @@ The table is inspired by Comparison and stats in DriveLM
 | [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)                                                               | 2023 | Large Scale Foundation Models (LLMs, VLMs, VFMs, World Models) for Autonomous Driving                                                                                  |
 | [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) | 2023 | Closed-Loop Autonomous Driving                                                                                                                                         |
 | [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/abs/2401.01454)                                                   | 2024 | Autonomous Driving Datasets                                                                                                                                            |      
+| [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105)                                                   | 2024 | Multimodal Foundation Models for Autonomous Driving                                                                                                                                            |      
 
 ### Papers Accepted by WACV 2024 LLVM-AD
 
