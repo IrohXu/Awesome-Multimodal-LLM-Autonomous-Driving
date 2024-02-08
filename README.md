@@ -48,7 +48,7 @@ regarding using MLLMs in autonomous driving systems that need to be solved by bo
 | [DriveMLM](https://arxiv.org/abs/2312.09245)                                | 2023 | LLaMA+Q-Former          | Perception Planning               | Vision, Language          | Training            | RGB Image LiDAR Text | Decision State     |
 | [DriveLM](https://arxiv.org/abs/2312.14150)                                 | 2023 | GVQA                    | Perception Planning               | Vision, Language          | Training            | RGB Image Text       | Text / Action      |   
 | [LangProp](https://arxiv.org/abs/2401.10314)                                | 2024 | IL, DAgger, RL + ChatGPT  | Planning (Code/Action Generation) | CARLA simulator Vsion, Language | Training            | CARLA simulator Text | Code as action     |
-| [LimSim++](https://arxiv.org/abs/2402.01246)                                | 2024 | LimSim, GPT-4  |  Planning  | Simulator BEV, Language |  Evaluation   |   Simulator Vsion, Language   |   Text / Action     |
+| [LimSim++](https://arxiv.org/abs/2402.01246)                                | 2024 | LimSim, GPT-4  |  Planning  | Simulator BEV, Language |  In-context learning   |   Simulator Vsion, Language   |   Text / Action     |
 
 ### Datasets
 
