@@ -1,6 +1,7 @@
 # A Survey on Multimodal Large Language Models for Autonomous Driving
 
-### :boom: News: [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is successfully organized at WACV 2024.
+### :boom: News: MAPLM (Tencent, UIUC) and LaMPilot (Purdue University) from our team are accepted by CVPR 2024.
+### News: [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is successfully organized at WACV 2024.
 
 ![On-site](./WACV2024/wacv3.jpg)
 
