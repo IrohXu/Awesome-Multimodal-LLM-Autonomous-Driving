@@ -106,13 +106,17 @@ report for their ICCV 2023 Paper
 
 [LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Shubodh_LIP-Loc_LiDAR_Image_Pretraining_for_Cross-Modal_Localization_WACVW_2024_paper.html)
 
-## Future Directions
+## Future Directions Section
 
-#### Social Behavior for Autonomous Driving.
+#### Social Behavior for Autonomous Driving (UIUC, Purdue University)
 
-#### Personalized Autonomous Driving.
+#### Personalized Autonomous Driving (Purdue University, UIUC)
 
-#### Hardware Support for LLMs in Autonomous Driving.
+#### Hardware Support for LLMs in Autonomous Driving (SambaNova Systems)
+
+#### LLMs for HD Maps (Tencent)
+
+#### Code as Action for Autonomous Driving (Purdue University, UIUC)
 
 ## Citation
 
