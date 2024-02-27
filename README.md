@@ -26,6 +26,7 @@ regarding using MLLMs in autonomous driving systems that need to be solved by bo
 ## Awesome Papers
 
 ### MLLM for Perception & Planning & Control for Autonomous Driving
+Please ping us if you find any interesting new papers in this area. We will update them into the Table. And all of them will be included in the next version of the survey paper.    
 
 | Model                                                                       | Year | Backbone                | Task                              | Modality                 | Learning            | Input                | Output             |
 |-----------------------------------------------------------------------------|------|-------------------------|-----------------------------------|--------------------------|---------------------|----------------------|--------------------|
