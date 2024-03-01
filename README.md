@@ -50,8 +50,9 @@ Please ping us if you find any interesting new papers in this area. We will upda
 | [DriveMLM](https://arxiv.org/abs/2312.09245)                                | 2023 | LLaMA+Q-Former          | Perception Planning               | Vision, Language          | Training            | RGB Image LiDAR Text | Decision State     |
 | [DriveLM](https://arxiv.org/abs/2312.14150)                                 | 2023 | GVQA                    | Perception Planning               | Vision, Language          | Training            | RGB Image Text       | Text / Action      |   
 | [LangProp](https://arxiv.org/abs/2401.10314)                                | 2024 | IL, DAgger, RL + ChatGPT  | Planning (Code/Action Generation) | CARLA simulator Vsion, Language | Training            | CARLA simulator Text | Code as action     |
-| [LimSim++](https://arxiv.org/abs/2402.01246)                                | 2024 | LimSim, GPT-4  |  Planning  | Simulator BEV, Language |  In-context learning   |   Simulator Vision, Language   |   Text / Action     |
+| [LimSim++](https://arxiv.org/abs/2402.01246)                                | 2024 | LimSim, GPT-4  |  Planning  |  Simulator BEV, Language  |  In-context learning   |   Simulator Vision, Language   |   Text / Action     |
 | [DriveVLM](https://arxiv.org/abs/2402.12289)                                | 2024 | Qwen-VL  |  Planning  | Sequence of Images, Language |   Training   |   Vision, Language   |   Text / Action     |
+| [RAG-Driver](https://arxiv.org/abs/2402.10828)                                | 2024 | Vicuna1.5-7B  |   Planning Control   |   Video, Language   |   Training   |   Vision, Language   |   Text / Action     |
 
 ### Datasets
 
