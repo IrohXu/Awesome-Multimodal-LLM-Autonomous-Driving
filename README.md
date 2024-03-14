@@ -1,6 +1,6 @@
 # A Survey on Multimodal Large Language Models for Autonomous Driving
 
-### We add new references from CVPR 2024 in our repo, refer from [自动驾驶之心](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving).
+### We add new references from CVPR 2024 in our repo, some references are from [自动驾驶之心](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving).
 
 ### :boom: News: MAPLM (Tencent, UIUC) and LaMPilot (Purdue University) from our team are accepted by CVPR 2024.
 ### News: [LLVM-AD Workshop](https://llvm-ad.github.io/schedule/) is successfully organized at WACV 2024.
