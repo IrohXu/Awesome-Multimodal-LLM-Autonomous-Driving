@@ -56,7 +56,7 @@ Please ping us if you find any interesting new papers in this area. We will upda
 | [DriveVLM](https://arxiv.org/abs/2402.12289)                           | 2024 | Qwen-VL  |  Planning  | Sequence of Images, Language |   Training   |   Vision, Language   |   Text / Action     |
 | [RAG-Driver](https://arxiv.org/abs/2402.10828)                         | 2024 | Vicuna1.5-7B  |   Planning Control   |   Video, Language   |   Training   |   Vision, Language   |   Text / Action     |
 | [ChatSim](https://arxiv.org/abs/2402.05746)                            | 2024 | GPT-4  |   Perception (Image Editing)   |   Image, Language   |   In-context learning   |   Vision, Language   |   Image     |
-| [VLP](https://arxiv.org/abs/2401.05577)                            | 2024 | GPT-4  |   Planning   |   Image, Language   |   Training  |   Vision, Language   |   Text / Action     |
+| [VLP](https://arxiv.org/abs/2401.05577)                            | 2024 | CLIP Text Encoder  |   Planning   |   Image, Language   |   Training  |   Vision, Language   |   Text / Action     |
 
 ### Datasets
 
